@@ -1,19 +1,25 @@
 ## Everything You Need to Know About WiFi
+## By Austin Hales
+
+### Table of Contents
+[Intro](#intro-duction)
+[How Data is Sent](#how-data-is-sent)
+[WiFi Security](#wifi-security)
 
 
-### Intro
+### <a name="some-id"></a> Intro
     
 Despite the many things that can be done through WiFi, it is fairly simple. It is essentially done with two radios, that use lower power and broadcast over a shorter distance than a car stereo, communicating back and forth.
 
 
-### How Data is Sent
+### <a name="how-data-is-sent"></a> How Data is Sent
 As a result of Wifi sending data by way of radio waves, it’s subject to interface from other Wifi signals, radio waves, or even cement walls. To counteract the interference, Wifi uses two frequencies 2.4 gigahertz and 5 gigahertz. 2.4 gigahertz is the lower frequency so it can reach computers farther away, but 5 gigahertz offers the capacity to carry more transmissions. Wifi can broadcast on both frequencies allowing the signal to cut through all the interference to deliver a fast strong signal from your wireless router to your device. 
 
 But ever since the age of cordless phones, people have had problems with radio signals crossing. The issue continues today with neighbors and their Wi-Fi networks. One way to get around this is by setting your frequency to broadcast on a certain channel. Most routers are good at automatically detecting the best channel to use. And 5 gigahertz networks have many more channels than networks broadcast on the 2.4 gigahertz frequency, another reason to use the new standard, if you can.
 
 Many people have issues with their connection speed so to fix this problem they turn to network extenders. However, fine-tuning their network is a better idea because network extenders just repeat signals. So if the extender is receiving a faint signal, the extender will only repeat that same weak signal.
 
-### Security Features
+### <a name="wifi-security"></a> Security Features
 Wi-Fi also has a number of security features. To access the network, users must have a password for WPA2, also known as Wi-Fi Protected Access (the 2 represents the fact that this feature is in its second generation). This is where you put in your password to get onto the Wi-Fi network. There’s another security feature called Advanced Encryption Standard (better known as AES) that was developed by the U.S. government to keep data safe as it transmits from one device to the other. Every piece of data that goes over Wifi is encrypted and only the two parties involved understand it.
 
 ## Backwards Compatiability
