@@ -26,6 +26,7 @@
 Despite the many things that can be done through WiFi, it is fairly simple. It is essentially done with two radios, that use lower power and broadcast over a shorter distance than a car stereo, communicating back and forth.
 
 [How Does Wi-Fi Work? | Brit Lab (Youtube, 4:00)](https://www.youtube.com/watch?v=xmabFJUKMdg)
+
 ![YouTube Video](WifiVideo.png)
 
 
